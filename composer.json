@@ -1,0 +1,12 @@
+{
+    "name": "maycon/machine-learning-with-php",
+    "authors": [
+        {
+            "name": "MayconVM (gitlab)",
+            "email": "maycon.vinicius@sympla.com.br"
+        }
+    ],
+    "require": {
+        "php-ai/php-ml": "^0.4.1"
+    }
+}
